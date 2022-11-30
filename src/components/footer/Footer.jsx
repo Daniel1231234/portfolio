@@ -28,13 +28,9 @@ const Footer = () => {
 
   return (
     <footer className="footer reveal">
-      {/* <a href="/#" className="footer__logo">
-        JUMP UP
-      </a> */}
-
       <ul className="permalinks">
         <li>
-        <a href="/#">Home</a>
+        <a href="#">Home</a>
         </li>
         <li>
           <a href="#about">About</a>
