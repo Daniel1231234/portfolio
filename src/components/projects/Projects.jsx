@@ -20,7 +20,7 @@ const data = [
     title: 'BmyGuest',
     desc: 'A single-page, full stack web application (SPA) inspired by Airbnb where users can view, book, and search for listings by location.' ,
     github:"https://github.com/Daniel1231234/Bmyguest",
-    demo:"https://moviedaniel.netlify.app/"
+    demo:"https://bmyguest.onrender.com/#/"
   }
   
 ]
