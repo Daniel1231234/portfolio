@@ -19,7 +19,7 @@ const data = [
     image:IMG2,
     title: 'BmyGuest',
     desc: 'A single-page, full stack web application (SPA) inspired by Airbnb where users can view, book, and search for listings by location.' ,
-    github:"https://github.com/Daniel1231234/Bmyguest",
+    github:"https://github.com/Daniel1231234/bmyguest-front",
     demo:"https://bmyguest.onrender.com/#/"
   }
   

@@ -30,6 +30,7 @@ const About = () => {
                         <li>A Team player & hard worker</li>
                         <li>Self-learner responsible</li>
                         <li>Passionate about technology & Adapt quickly to new environments.</li>
+                        <li>Graduate of the Coding Academy - 640 hours of an intensive coding bootcamp that qualifies Full-Stack developers</li>
                         <li>Graduate of Haifa University – M.A with Honor in international relations.</li>
                     </ul>
                 </div>
