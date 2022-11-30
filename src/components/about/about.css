@@ -17,12 +17,12 @@
 
 .about-container {
     background: linear-gradient(rgb(77 181 255 / 40%), transparent);
-    max-height: 50rem;
+    /* max-height: 50rem; */
     margin: 4rem auto;
     border-radius: 7rem 7rem 0 0;
     overflow: hidden;
     padding: 5rem 1.5rem 1.5rem 1.5rem;
-    height: 100vh;
+    /* height: 100vh; */
     font-size: 1.2rem;
     /* background: var(--color-bg-variant); */
     padding: 2.4rem;
@@ -36,7 +36,7 @@
     list-style-type: "*";
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 1.5rem;
     align-items: flex-start;
 }
 
