@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.90821ed5.css",
-    "main.js": "/portfolio/static/js/main.c96c92c5.js",
-    "static/js/787.b5ac7124.chunk.js": "/portfolio/static/js/787.b5ac7124.chunk.js",
-    "static/media/Tavenli.png": "/portfolio/static/media/Tavenli.456d03a469188e7ffcbe.png",
-    "static/media/Bmyguest.png": "/portfolio/static/media/Bmyguest.ed8ad35063371011a63b.png",
-    "static/media/resumeDaniel.pdf": "/portfolio/static/media/resumeDaniel.26cc1d882cbeb4105228.pdf",
-    "static/media/bg3.jpg": "/portfolio/static/media/bg3.463177f0bb0db5ca3daf.jpg",
-    "index.html": "/portfolio/index.html",
-    "main.90821ed5.css.map": "/portfolio/static/css/main.90821ed5.css.map",
-    "main.c96c92c5.js.map": "/portfolio/static/js/main.c96c92c5.js.map",
-    "787.b5ac7124.chunk.js.map": "/portfolio/static/js/787.b5ac7124.chunk.js.map"
+    "main.css": "/static/css/main.6a69a1dc.css",
+    "main.js": "/static/js/main.e7a23732.js",
+    "static/js/787.b5ac7124.chunk.js": "/static/js/787.b5ac7124.chunk.js",
+    "static/media/Tavenli.png": "/static/media/Tavenli.456d03a469188e7ffcbe.png",
+    "static/media/Bmyguest.png": "/static/media/Bmyguest.ed8ad35063371011a63b.png",
+    "static/media/resumeDaniel.pdf": "/static/media/resumeDaniel.9ebd4745715343ed3cea.pdf",
+    "static/media/bg3.jpg": "/static/media/bg3.463177f0bb0db5ca3daf.jpg",
+    "index.html": "/index.html",
+    "main.6a69a1dc.css.map": "/static/css/main.6a69a1dc.css.map",
+    "main.e7a23732.js.map": "/static/js/main.e7a23732.js.map",
+    "787.b5ac7124.chunk.js.map": "/static/js/787.b5ac7124.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90821ed5.css",
-    "static/js/main.c96c92c5.js"
+    "static/css/main.6a69a1dc.css",
+    "static/js/main.e7a23732.js"
   ]
 }
