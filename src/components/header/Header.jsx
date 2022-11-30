@@ -23,7 +23,7 @@ const Header = () => {
   
   window.addEventListener("scroll", reveal);
   return (
-    <header>
+    <header id="header">
         <div className=".container header__container">
           <Typical
               steps={[

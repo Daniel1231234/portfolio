@@ -30,7 +30,7 @@ const Footer = () => {
     <footer className="footer reveal">
       <ul className="permalinks">
         <li>
-        <a href="#">Home</a>
+        <a href="#header">Home</a>
         </li>
         <li>
           <a href="#about">About</a>
