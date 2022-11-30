@@ -42,20 +42,13 @@ const Header = () => {
               loop={Infinity}
               wrapper="h3"
             />
-        <p style={{ fontSize: '1.3rem' }} className='text-light'>
-          <span>ReactJs |  </span>
-          <span>VueJs | </span>
-          <span>React Native | </span>
-          <span>Nodejs</span>
+        <p style={{ fontSize: '1.3rem', marginTop:'10px' }} className='text-light'>
+          <span>React.js |  </span>
+          <span>Vue.js | </span>
+          <span>Node,js | </span>
+          <span>React Native  </span>
         </p>  
             <CTA/>
-            <div className="me">
-          <p style={{fontSize:'1.3rem'}} className='text-light'>
-            A Team player, hard worker, focusing on problem solving and detailed orientation, self-learner responsible, and adapt quickly to new environments.
-                </p>
-              
-            </div>
-            <a href="#contact" className='scroll__down'>Scroll Down</a>
         </div>
     </header>
   )

@@ -6,6 +6,7 @@ import { BsLinkedin } from "react-icons/bs";
 
 
 
+
 const Footer = () => {
   function reveal() {
     var reveals = document.querySelectorAll(".reveal");
@@ -27,13 +28,16 @@ const Footer = () => {
 
   return (
     <footer className="footer reveal">
-      <a href="/#" className="footer__logo">
+      {/* <a href="/#" className="footer__logo">
         JUMP UP
-      </a>
+      </a> */}
 
       <ul className="permalinks">
         <li>
         <a href="/#">Home</a>
+        </li>
+        <li>
+          <a href="#about">About</a>
         </li>
         <li>
           <a href="#experience">Skills</a>
